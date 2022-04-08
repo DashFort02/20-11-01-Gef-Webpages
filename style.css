@@ -1,0 +1,21 @@
+/*
+ *Name: Grady Fort
+ *UnityID: gefort
+ *Date: 11/5/2020
+ *Assignment: Webpages IA
+ *Description: E 115 independent assignment
+ */
+ 
+body {
+    background-color: #F36868;
+}
+
+.table-border {
+    border: 1px solid #000000;
+}
+
+#image-properties {
+    border: 2px outset #D3F9B5;
+	width: 200px;
+	height: 250px;
+}
